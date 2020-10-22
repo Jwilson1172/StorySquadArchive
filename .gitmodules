@@ -1,0 +1,9 @@
+[submodule "Data-Science"]
+	path = Data-Science
+	url = git@github.com:Jwilson1172/StorySquadDS.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:Jwilson1172/StorySquadFE.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:Jwilson1172/StorySquadBE.git
